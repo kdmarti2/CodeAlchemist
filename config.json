@@ -29,5 +29,5 @@
     "shouldBeEqualToString", "crash" , "$ERROR", "Test", "tryItOut", "WScript",
     "Function", "read", "readbuffer", "readline", "console"
   ],
-  "jobs": 10
+  "jobs": 35
 }
